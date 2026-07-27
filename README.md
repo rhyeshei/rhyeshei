@@ -1,4 +1,6 @@
-# rhyeshei
+from pathlib import Path
+
+content = """# Hi, I'm rhyeshei 👋
 
 ## About Me
 
@@ -8,7 +10,8 @@ IT・ソフトウェア開発を学んでいる学生です。
 TypeScript、React、Next.js、Java、Python、PostgreSQLなどを学習しています。
 
 前職では、社内IT環境の整備、情報セキュリティ、業務改善などに携わりました。  
-技術を使って、作業の無駄を減らし、使いやすい仕組みを作ることに関心があります。
+技術を使って、作業の無駄を減らし、使いやすい仕組みを作ることに関心があり、
+現在は学生として、学習を進めています。
 
 ## Currently Learning
 
@@ -63,9 +66,5 @@ TypeScript、React、Next.js、Java、Python、PostgreSQLなどを学習して�
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rhyeshei&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhyeshei&layout=compact&hide_border=true)
-"""
 
-path = Path("/mnt/data/github_profile_README_private.md")
-path.write_text(content, encoding="utf-8")
-print(path)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhyeshei&layout=compact&hide_border=true)
