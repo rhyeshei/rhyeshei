@@ -60,3 +60,18 @@ TypeScript、React、Next.js、Java、Python、PostgreSQLなどを学習して�
 - 可読性・保守性を意識したコードを書く
 - ユーザーの課題を整理し、使いやすい仕組みに落とし込む
 - Git・GitHubを活用したチーム開発に慣れる
+
+## GitHub Stats
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rhyeshei&show_icons=true&hide_border=true"
+    alt="GitHub Stats"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhyeshei&layout=compact&hide_border=true"
+    alt="Top Languages"
+    height="170"
+  />
+</p>
