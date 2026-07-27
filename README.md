@@ -61,17 +61,12 @@ TypeScript、React、Next.js、Java、Python、PostgreSQLなどを学習して�
 - ユーザーの課題を整理し、使いやすい仕組みに落とし込む
 - Git・GitHubを活用したチーム開発に慣れる
 
-## GitHub Stats
+## GitHub Profile Summary
 
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=rhyeshei&show_icons=true&hide_border=true"
-    alt="GitHub Stats"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhyeshei&layout=compact&hide_border=true"
-    alt="Top Languages"
-    height="170"
-  />
-</p>
+![](./profile-summary-card-output/github/0-profile-details.svg)
+
+![](./profile-summary-card-output/github/1-repos-per-language.svg)
+![](./profile-summary-card-output/github/2-most-commit-language.svg)
+
+![](./profile-summary-card-output/github/3-stats.svg)
+![](./profile-summary-card-output/github/4-productive-time.svg)
